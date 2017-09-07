@@ -2,11 +2,7 @@
 <s:id>{id}</s:id>
 <g:item_group_id/>
 <g:title>{title}</g:title>
-<s:long_description>
-<![CDATA[
-{description}
-]]>
-</s:long_description>
+<s:long_description>{description}</s:long_description>
 <s:siroop_category>{google_product_category}</s:siroop_category>
 {G:IMAGE_LINK}
 <g:additional_image_link/>
