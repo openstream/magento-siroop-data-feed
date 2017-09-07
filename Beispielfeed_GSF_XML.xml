@@ -1,0 +1,43 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:s="https://merchants.siroop.ch/" version="2.0">
+<channel>
+<title>Products for Siroop Marketplace</title>
+<link>http://www.example-shop.ch</link>
+<description>
+This is a sample feed containing the required and recommended attributes for a variety of different products
+</description>
+<item>
+<g:id>10162513-L</g:id>
+<g:item_group_id/>
+<g:title>LEGO City Tiefsee-Tauchscooter</g:title>
+<s:long_description>
+<![CDATA[
+Tauche mit dem Tiefsee-Tauchscooter nach dem verlorenen Schatz!<br><br>Begleite den Taucher auf eine Schatzsuche in der Tiefsee – und zwar mit dem Tiefsee-Tauchscooter. Lenke den fantastischen Tauchscooter durch das klare Wasser hinunter in die dunklen Tiefen. Benutze dann die Roboterarme, um den kostbaren Kristall zu greifen. Hüte dich jedoch vor dem Riesenkraken, der im Seetang lauert! In einem seiner langen Tentakel hält er übrigens auch einen Kristall! Kannst du dir den kostbaren Kristall holen? Enthält einen Taucher als Minifigur.
+]]>
+</s:long_description>
+<s:siroop_category>s6340</s:siroop_category>
+<g:image_link>
+https://cdn.siroop.ch/media/images/sized/c9eb1f6ec31056d3ad835e121f8e78c8.400x400.jpg
+</g:image_link>
+<g:additional_image_link/>
+<s:quantity>10</s:quantity>
+<g:price>189.00 CHF</g:price>
+<s:productvat>1</s:productvat>
+<s:warranty>24</s:warranty>
+<g:gtin>123456789123</g:gtin>
+<g:mpn>60090</g:mpn>
+<s:manufacturer_name>Mattel</s:manufacturer_name>
+<g:brand>LEGO</g:brand>
+<s:attribute name="Grösse">L</s:attribute>
+<s:attribute name="Farbe DE">Schwarz</s:attribute>
+<s:attribute name="Breite">15 cm</s:attribute>
+<s:attribute name="Höhe">25 cm</s:attribute>
+<s:attribute name="Tiefe">30 cm</s:attribute>
+<s:attribute name="Material">Leder</s:attribute>
+<s:attribute name="Volumen">50 ml</s:attribute>
+<s:attribute name="Geschlecht">Für Männer</s:attribute>
+<s:attribute name="Lieferumfang">
+Das Set enthält ein Expeditionsschiff, ein Forschungs-U-Boot mit kuppelförmigem Cockpit, ein ferngesteuertes Unterwasserfahrzeug, ein Schiffswrack mit Einstürz-Funkion, einen Haikäfig, Seetang, einen Schwertfisch, einen Kraken, einen weißen Hai und 2 graue Haie.
+</s:attribute>
+</item>
+</channel>
+</rss>
